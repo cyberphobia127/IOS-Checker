@@ -9,3 +9,12 @@ Open Module1 and update the below code with your credentials obtained from Cisco
 
     Public Const client_id As String = ""
     Public Const client_secret As String = ""
+
+Once your credentials have been saved in Visual Basic, you can return to the sheet
+You can now change some settings as required
+- Select proxy on/off and update the proxy value (if needed)
+- Select the desired OS type to be checked against
+- Now click Get Token which will be valid for 1 hour
+
+Populate the software list and click Run, if any timeout there is a timeout button that will rerun any timedout ones.
+
